@@ -7,7 +7,7 @@ gem 'rails', '3.2.5'
 
 gem 'sqlite3'
 gem 'sqlite3-ruby', '1.2.5', :require => 'sqlite3'
-gem 'pg'
+
 
 
 # Gems used only for assets and not required
